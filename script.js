@@ -20,7 +20,7 @@ new Vue({
             name: "Dangerous",
             artist: "Lemex",
             cover: "https://i.ytimg.com/vi/9DV-ZhXU2FU/maxresdefault.jpg",
-            source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+            source: "https://raw.githubusercontent.com/herbertcarnaubadesouza/player-music/main/mp3/dangerous.mp3",
             url: "https://www.youtube.com/watch?v=r_rNg42qvYg",
             favorited: false
           },
@@ -28,7 +28,7 @@ new Vue({
             name: "MEGA CORT3 4MERICANO",
             artist: "GR1NGO",
             cover: "https://i.scdn.co/image/ab67616d0000b273688beaa6b53e084fb6648ff3",
-            source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+            source: "https://raw.githubusercontent.com/herbertcarnaubadesouza/player-music/main/mp3/mega-americano.mp3",
             url: "https://www.youtube.com/watch?v=IgUaoNV_uRQ",
             favorited: true
           },
@@ -36,7 +36,7 @@ new Vue({
             name: "Ghost",
             artist: "Justin Bieber",
             cover: "https://akns-images.eonline.com/eol_images/Entire_Site/2021813/rs_1200x1200-210913172419-1200-2-2021-met-gala-justin-bieber-arrivals.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+            source: "https://raw.githubusercontent.com/herbertcarnaubadesouza/player-music/main/mp3/ghost.mp3",
             url: "https://www.youtube.com/watch?v=Fp8msa5uYsc",
             favorited: false
           },
@@ -44,7 +44,7 @@ new Vue({
             name: "All That Matters",
             artist: "Justin Bieber",
             cover: "https://i1.sndcdn.com/artworks-0zr18X17UnEmr58n-BGXRFw-t500x500.jpg",
-            source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
+            source: "https://raw.githubusercontent.com/herbertcarnaubadesouza/player-music/main/mp3/all-that-matters.mp3",
             url: "https://www.youtube.com/watch?v=JC2yu2a9sHk",
             favorited: false
           },
@@ -52,7 +52,7 @@ new Vue({
             name: "When It Rains It Pours",
             artist: "50 Cent",
             cover: "https://letrasweb.com.br/_img/0-9/50-cent/50-cent.jpg",
-            source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
+            source: "https://raw.githubusercontent.com/herbertcarnaubadesouza/player-music/main/mp3/50cent.mp3",
             url: "https://www.youtube.com/watch?v=6nLfSN2u5gg",
             favorited: true
           },
